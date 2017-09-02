@@ -1,7 +1,4 @@
 # 10 Minutes to pandas
-## 十分钟搞定Pandas 中文
-
-
 
 十分钟快速入门 Pandas
 ==========
